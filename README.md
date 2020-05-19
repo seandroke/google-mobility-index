@@ -41,3 +41,5 @@ Additionally, kick off the pull_mobility.py to run in the background such that y
 ## Sample Graph Output
 
 ![alt text](https://github.com/seandroke/google-mobility-index/blob/master/screenshots/graph-output.png)
+
+<i>Graph represents residential mobility data for Burlington County, NJ for 56 different dates.</i>
