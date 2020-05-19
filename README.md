@@ -34,10 +34,10 @@ Use of this application is pretty straight forward. So long as the dependencies 
 
 Mobility Selector could be any number 1-7. Use the following scale.
 
-//img
+![alt text](https://github.com/seandroke/google-mobility-index/blob/master/screenshots/mobility-selector.png)
 
 Additionally, kick off the pull_mobility.py to run in the background such that your mobility index CSV remains up to date.
 
 ## Sample Graph Output
 
-//img
+![alt text](https://github.com/seandroke/google-mobility-index/blob/master/screenshots/graph-output.png)
