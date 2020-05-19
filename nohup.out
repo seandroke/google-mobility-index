@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "pull_mobility.py", line 11, in <module>
+    schedule.run_pending()
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 563, in run_pending
+    default_scheduler.run_pending()
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 94, in run_pending
+    self._run_job(job)
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 147, in _run_job
+    ret = job.run()
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 466, in run
+    ret = self.job_func()
+TypeError: job() missing 1 required positional argument: 't'
+Traceback (most recent call last):
+  File "pull_mobility.py", line 12, in <module>
+    schedule.run_pending()
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 563, in run_pending
+    default_scheduler.run_pending()
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 94, in run_pending
+    self._run_job(job)
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 147, in _run_job
+    ret = job.run()
+  File "/var/www/html/sean.droke/.local/lib/python3.7/site-packages/schedule/__init__.py", line 466, in run
+    ret = self.job_func()
+TypeError: job() missing 1 required positional argument: 't'
